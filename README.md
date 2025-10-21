@@ -1,4 +1,4 @@
-# to-do-list
+# EduPlan
 Scenario:
 In the fast-paced academic environment, university students juggle multiple responsibilities, including assignments, discussions, club activities, and examinations. To effectively manage their time and prioritize their tasks, a well-structured To-Do List web application is required as an assistant to the students. This assignment requires you to develop a web application that is tailored to university students with the maximum number of web pages is between 10-15 pages. Note that the pop-up dialog box is not considered as a web page.
 
